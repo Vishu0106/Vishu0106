@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently making my skills more stronger in field of development<br>🎯 I aim to be an SDE<br>📫 How to reach me: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently making my skills more stronger in field of development<br>🎯 I aim to be an SDE<br>📫 How to reach me: <a href="https://www.linkedin.com/in/vishnuvardhan-kattameedi-b34814258/">LinkedIn</a></p>
 
 ###

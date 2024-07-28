@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Vishnu Vardhan Kattameedi and I'm a 3rd year CS student , from Hyderabad , India.</p>
+<p align="left">I'm Vishnu Vardhan Kattameedi and I'm a final year CS student , from Hyderabad , India.</p>
 
 ###
 
